@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Natalia 👋
+
+
+:computer: **Technologist in "ADSI" (Information Systems Analysis and Development) - Final semester student in Systems Engineering.** 
 
 <!--
 **nataliaguti22/nataliaguti22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
